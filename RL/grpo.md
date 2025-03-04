@@ -1,5 +1,7 @@
 # GRPO算法通俗解释
 
+代码链接：https://github.com/aburkov/theLMbook/blob/main/GRPO.py
+
 ## 什么是GRPO算法？
 
 GRPO（Group Relative Policy Optimization）是一种用来训练语言模型的强化学习算法。简单来说，它就像是一个教练，通过不断地给模型提供反馈，让模型学会如何更好地回答问题。
